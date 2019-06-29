@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What Made me Start Software Engineering?"
-date:       2019-06-29 02:12:28 +0000
+date:       2019-06-28 22:12:29 -0400
 permalink:  what_made_me_start_software_engineering
 ---
 
