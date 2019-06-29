@@ -1,11 +1,11 @@
 # Site settings
 author: Mark Anthony Bagasol
-title: 
+title: noobcoders
 header-img: img/home-bg.png
 email: markbagasol@gmail.com
 copyright_name: Mark Anthony Bagasol
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A place for beginners in coding!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MBagasol
